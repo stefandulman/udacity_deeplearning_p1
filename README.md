@@ -5,6 +5,7 @@ Problem description - In this project, you'll get to build a neural network from
 Solution:
 
 Your_first_neural_network.ipynb - report in jupyter notebook format (start here!)
+
 Your_first_neural_network.html - html version of the report
 
 Additional files:
